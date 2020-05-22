@@ -1,0 +1,1 @@
+numberofFood = 4 numberofPheromone = 0 forageTime = 0

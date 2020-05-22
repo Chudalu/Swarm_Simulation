@@ -1,0 +1,1 @@
+numberofFood = 17 numberofPheromone = 266 forageTime = 0
